@@ -13,7 +13,7 @@ This project is a serverless real-time chat application built using:
 - HTML
 - CSS
 - JavaScript
-
+  
 ## Features
 
 - Real-time messaging
