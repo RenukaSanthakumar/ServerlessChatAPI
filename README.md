@@ -25,9 +25,19 @@ This project is a serverless real-time chat application built using:
 
 ```
 RealTimeChatAWS/
+│
 ├── frontend/
+│   ├── index.html
+│   ├── style.css
+│   └── app.js
+│
 ├── lambda/
+│   ├── ConnectFunction.py
+│   ├── DisconnectFunction.py
+│   └── SendMessageFunction.py
+│
 ├── screenshots/
-├── README.md
+│
+├── README.md/
 └── .gitignore
 ```
